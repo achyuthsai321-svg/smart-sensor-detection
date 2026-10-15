@@ -61,6 +61,6 @@ python sensor_detection.py
 ## 👤 Author
 
 **Achyuth Sai V**  
-B.Tech CSE (Data Science) — SRM Institute of Science and Technology  
+B.Tech CSE-CYBER SECURITY — SRM Institute of Science and Technology  
 📧 achyuthsai321@gmail.com  
 🔗 [GitHub](https://github.com/achyuthsai321-svg)
